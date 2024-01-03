@@ -1,6 +1,6 @@
 # Lunar Heightmap Calculator
 
-![](https://raw.githubusercontent.com/unconsciou5/Lunar_Heightmap_Calculator/master/doc/preview.gif)
+![](screenshot.png)
 
 
 [![Download Release](https://img.shields.io/github/v/release/unconsciou5/Lunar_Heightmap_Calculator?color=brightgreen&label=Download%20Executable&logo=windows&style=for-the-badge)](https://github.com/unconsciou5/Lunar_Heightmap_Calculator/releases/latest/download/Lunar_Heightmap_Calculator.exe)
