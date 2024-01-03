@@ -2,12 +2,6 @@
 
 ![](screenshot.png)
 
-
-[![Download Release](https://img.shields.io/github/v/release/unconsciou5/Lunar_Heightmap_Calculator?color=brightgreen&label=Download%20Executable&logo=windows&style=for-the-badge)](https://github.com/unconsciou5/Lunar_Heightmap_Calculator/releases/latest/download/Lunar_Heightmap_Calculator.exe)
-
-
-This tool was written for Lunar Hightmaps from Lunar Orbiter Laser Altimeter (LOLA) http://imbrium.mit.edu/
-
 **Features**
 * surface-distance calculation
 * air-distance calculation
