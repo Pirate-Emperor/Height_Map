@@ -11,7 +11,7 @@ Pillow==12.3.0
 prettytable==2.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.2
-requests==2.26.0
+requests==2.33.0
 screeninfo==0.7
 six==1.16.0
 soupsieve==2.8.4
